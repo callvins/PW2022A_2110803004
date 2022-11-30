@@ -1,0 +1,32 @@
+body{
+  font-family:'Open Sans';
+  background-color: white;
+  background-image: url(gambar2.jpg);
+  text-align: center;
+  color: white;
+  
+
+}
+
+h1{
+  text-align: center;
+  font-size: 150px;
+  
+}
+
+h2{
+  text-align: center;
+  font-size: 14px;
+}
+
+.atas { 
+height:50px;
+width:1358px; 
+float: inline-start;
+background: white;
+color: black;
+text-align: center;
+
+}
+
+  
